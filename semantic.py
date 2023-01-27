@@ -62,8 +62,8 @@ print(word3.similarity(word1))
 # from the model 'en_core_web_md'.
 
 '''
-When running this code with the simpler language model 'en_core_web_sm' as compared to 'en_core_web_md', the main 
-difference that I notice is the accuracy of the similarity scores.
+When running code in the example file with the simpler language model 'en_core_web_sm' as compared to 'en_core_web_md', 
+the main difference that I notice is the accuracy of the similarity scores.
 
 Additionally, the 'en_core_web_sm' model has fewer number of parameters, which means it is less complex and less 
 accurate than 'en_core_web_md' model. Hence it may not perform as well as the 'en_core_web_md' model on tasks that 

@@ -12,7 +12,7 @@ Install the required packages: `pip install -r requirements.txt`
 ## Usage
 
 1. Navigate to the root directory of the project
-2. Run the script using the command: python main.py
+2. Run the script using the command: `python3 semantic.py`
 
 ## Using Docker
 
